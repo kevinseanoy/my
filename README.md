@@ -1,1 +1,15 @@
 <a href="https://newsallshare.com/1.htm">.</a>
+<a href="https://newsallshare.com/2.htm">.</a>
+<a href="https://newsallshare.com/3.htm">.</a>
+<a href="https://newsallshare.com/4.htm">.</a>
+<a href="https://newsallshare.com/5.htm">.</a>
+<a href="https://newsallshare.com/6.htm">.</a>
+<a href="https://newsallshare.com/7.htm">.</a>
+<a href="https://newsallshare.com/8.htm">.</a>
+<a href="https://newsallshare.com/9.htm">.</a>
+<a href="https://newsallshare.com/10.htm">.</a>
+<a href="https://newsallshare.com/11htm">.</a>
+<a href="https://newsallshare.com/12.htm">.</a>
+<a href="https://newsallshare.com/13.htm">.</a>
+<a href="https://newsallshare.com/14.htm">.</a>
+<a href="https://newsallshare.com/15.htm">.</a>
